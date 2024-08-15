@@ -1,8 +1,8 @@
 # Rishabh - DevOps Data Scientist
 
-<table>
-<tr>
-<td>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="width: 45%;">
 
 ## About Me
 - **Name:** Rishabh
@@ -26,8 +26,9 @@
 - Architecture orchestration
 - Robust infrastructure design
 
-</td>
-<td>
+</div>
+
+<div style="width: 45%;">
 
 ## What I Do
 
@@ -55,12 +56,16 @@
 - **LinkedIn:** [Your LinkedIn profile link]
 - **Email:** [Your email address]
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
+
+<div style="text-align: center;">
 
 I'm passionate about leveraging technology to solve complex problems and streamline processes. My diverse skill set allows me to bridge the gap between data science, software engineering, and DevOps practices. I'm particularly interested in applying these skills to the field of bioinformatics, creating tools that accelerate scientific discovery.
 
 Feel free to reach out if you'd like to collaborate or discuss potential projects!
+
+</div>
