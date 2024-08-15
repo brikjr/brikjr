@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ## About Me
 - **Name:** Rishabh
