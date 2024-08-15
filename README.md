@@ -1,19 +1,35 @@
+# Rishabh - DevOps Data Scientist
+
+<table>
+<tr>
+<td width="50%">
+
 ## About Me
 - **Name:** Rishabh
 - **Role:** DevOps Data Scientist
-- **Interests:** Data Science, DevOps, Machine Learning, Software Engineering, Bioinformatics
-- **Experience:** Coding on and off for the past seven years
+- **Interests:** 
+  - Data Science
+  - DevOps
+  - Machine Learning
+  - Software Engineering
+  - Bioinformatics
+- **Experience:** Coding for 7+ years
 
-## What I Do
-
-### AWS Expertise
+## AWS Expertise
 - Deployment services
 - CI/CD pipelines
 - Full-stack development
 
-### Development Focus
-- End-to-end application development, ensuring scalability and sustainability
-- Orchestrating architecture and designing robust infrastructure
+## Development Focus
+- End-to-end application development
+- Scalability and sustainability
+- Architecture orchestration
+- Robust infrastructure design
+
+</td>
+<td width="50%">
+
+## What I Do
 
 ### DevOps Focus
 - Automating deployment processes
@@ -21,14 +37,15 @@
 - Ensuring smooth CI/CD operations
 
 ### Machine Learning
-- Working with large language models tailored to company requirements
+- Working with large language models
+- Tailoring models to company requirements
 
 ### Bioinformatics
 - Creating automated workflows for data analysis
-- Enabling scientists to focus more on lab work and less on computational tasks
+- Enabling scientists to focus on lab work
 
 ## Projects
-(Brief descriptions of key projects to be added, such as):
+(Brief descriptions to be added)
 - Scalable AWS deployment tools
 - LLM integration
 - DevOps automation solutions
@@ -37,6 +54,10 @@
 ## Contact
 - **LinkedIn:** [Your LinkedIn profile link]
 - **Email:** [Your email address]
+
+</td>
+</tr>
+</table>
 
 ---
 
