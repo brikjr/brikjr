@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
 ## About Me
 - **Name:** Rishabh
@@ -27,7 +27,7 @@
 - Robust infrastructure design
 
 </td>
-<td width="100%">
+<td>
 
 ## What I Do
 
