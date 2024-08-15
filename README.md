@@ -27,7 +27,7 @@
 - Robust infrastructure design
 
 </td>
-<td width="50%">
+<td width="100%">
 
 ## What I Do
 
