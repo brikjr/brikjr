@@ -2,7 +2,7 @@
 
 <table style="width:100%;">
   <tr>
-    <td style="vertical-align:top; padding:10px;">
+    <td style="vertical-align:top; padding:120px;">
 
 ### About Me
 - **Name:** Rishabh
