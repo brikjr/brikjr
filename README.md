@@ -18,7 +18,7 @@ DevOps Data Scientist with 5+ years of coding experience, skilled in bridging da
 Expertise
 ---------
 
-*   **AWS**: DevOps, CI/CD, deployment, full-stack development
+*   **AWS**: DevOps, CI/CD, deployment, infrastructure designing, full-stack development
 *   **DevOps**: Automating deployments, managing cloud infrastructure
 *   **Machine Learning**: Working with large language models
 *   **Bioinformatics**: Automating data analysis workflows
