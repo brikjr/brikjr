@@ -1,61 +1,36 @@
-# Rishabh - DevOps Data Scientist
+* * *
 
-<table>
-<tr>
-<td width="50%">
+Rishabh - DevOps Data Scientist
+===============================
 
-## About Me
-- **Name:** Rishabh
-- **Role:** DevOps Data Scientist
-- **Interests:** 
-  - Data Science
-  - DevOps
-  - Machine Learning
-  - Software Engineering
-  - Bioinformatics
-- **Experience:** Coding for 5+ years
+About Me
+--------
 
-## AWS Expertise
-- DevOps
-- CI/CD pipelines
-- Deployment services
-- Full-stack development
+DevOps Data Scientist with 5+ years of coding experience, skilled in bridging data science, software engineering, and DevOps.
 
-## Development Focus
-- End-to-end application development
-- Automating workflows
-- Scalability and sustainability
-- Architecture orchestration
-- Robust infrastructure design
+### Interests
 
-</td>
-<td width="50%">
+*   Data Science
+*   DevOps
+*   Machine Learning
+*   Bioinformatics
 
-## What I Do
+Expertise
+---------
 
-### DevOps Focus
-- Automating scalable deployment processes
-- Managing cloud infrastructure
-- Ensuring smooth CI/CD operations
+*   **AWS**: DevOps, CI/CD, deployment, full-stack development
+*   **DevOps**: Automating deployments, managing cloud infrastructure
+*   **Machine Learning**: Working with large language models
+*   **Bioinformatics**: Automating data analysis workflows
 
-### Machine Learning
-- Working with large language models
-- Tailoring models to company requirements
+Contact
+-------
 
-### Bioinformatics
-- Creating automated workflows for data analysis
-- Enabling scientists to focus on lab work
+*   **LinkedIn:** [linkedin.com/in/rishabh-pandey6199](https://linkedin.com/in/rishabh-pandey6199)
+*   **Email:** \[rishabh.pandey6199@gmail.com\]
 
-## Contact
-- **LinkedIn:** [linkedin.com/in/rishabh-pandey6199]
-- **Email:** []
+* * *
 
-</td>
-</tr>
-</table>
+I'm passionate about using technology to solve problems and drive innovation. Let's connect to explore collaboration opportunities!
 
----
-
-I'm passionate about leveraging technology to solve complex problems and streamline processes. My diverse skill set allows me to bridge the gap between data science, software engineering, and DevOps practices. I'm particularly interested in applying these skills to the field of bioinformatics, creating tools that accelerate scientific discovery.
-
-Feel free to reach out if you'd like to collaborate or discuss potential projects!
+Replace the placeholder with your email address, and you're all set!
