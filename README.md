@@ -1,6 +1,3 @@
-**Rishabh Pandey**  
-Boston, MA, USA  
-
 **Bioinformatics & Data Scientist**  
 Innovating at the intersection of bioinformatics, machine learning, and cloud-based automation to drive impactful insights in life sciences.  
 
