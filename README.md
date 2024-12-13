@@ -1,5 +1,3 @@
----
-
 **Rishabh Pandey**  
 Boston, MA, USA  
 
