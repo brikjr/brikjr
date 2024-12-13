@@ -1,36 +1,29 @@
-* * *
+---
 
-Rishabh - DevOps Data Scientist
-===============================
+**Rishabh Pandey**  
+Boston, MA, USA  
 
-About Me
---------
+**Bioinformatics & Data Scientist**  
+Innovating at the intersection of bioinformatics, machine learning, and cloud-based automation to drive impactful insights in life sciences.  
 
-DevOps Data Scientist with 5+ years of coding experience, skilled in bridging data science, software engineering, and DevOps.
+---
 
-### Interests
+### **Expertise**  
+- **Bioinformatics**: RNA-Seq, NGS pipelines, workflow automation (Snakemake, Nextflow, Web-apps), variant calling, miRNA analysis. 
+- **Data Science & ML**: LLMs, CodonBERT, RNABERT, UTRLM, predictive modeling, RNA stability analysis.  
+- **Cloud & Automation**: AWS, CI/CD, scalable bioinformatics infrastructure, Kubernetes.  
 
-*   Data Science
-*   DevOps
-*   Machine Learning
-*   Bioinformatics
+### **Interests**  
+- Machine Learning in Genomics  
+- RNA Therapeutics  
+- Automating Data Analysis Pipelines
+- Webapps for Bioinformatics
 
-Expertise
----------
+---
 
-*   **AWS**: DevOps, CI/CD, deployment, infrastructure designing, full-stack development
-*   **DevOps**: Automating deployments, managing cloud infrastructure
-*   **Machine Learning**: Working with large language models
-*   **Bioinformatics**: Automating data analysis workflows
+### **Contact**  
+- **Email**: [Email me](mailto:pandey.rish@northeastern.edu) 
+- **LinkedIn**: [linkedin.com/in/rishabh-pandey6199](https://linkedin.com/in/rishabh-pandey6199)  
+- **Portfolio**: [brikjr.github.io](https://brikjr.github.io)
 
-Contact
--------
-
-*   **LinkedIn:** [linkedin.com/in/rishabh-pandey6199](https://linkedin.com/in/rishabh-pandey6199)
-*   **Email:** \[rishabh.pandey6199@gmail.com\]
-
-* * *
-
-I'm passionate about using technology to solve problems and drive innovation. Let's connect to explore collaboration opportunities!
-
-Replace the placeholder with your email address, and you're all set!
+---
