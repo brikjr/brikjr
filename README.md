@@ -17,6 +17,6 @@
 ### **Contact**  
 - **Email**: [Email](mailto:pandey.rish@northeastern.edu) 
 - **LinkedIn**: [linkedin.com/in/rishabh-pandey6199](https://linkedin.com/in/rishabh-pandey6199)  
-- **Portfolio**: [brikjr.github.io](https://brikjr.github.io)
+- **Portfolio**: [brikjr.com](https://brikjr.com)
 
 ---
